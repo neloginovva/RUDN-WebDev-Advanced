@@ -1,0 +1,47 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "title": "Спроектировать структуру доски",
+      "isDone": true,
+      "isUrgent": false
+    },
+    {
+      "id": "2",
+      "title": "Подключить доску к серверу",
+      "isDone": false,
+      "isUrgent": true
+    },
+    {
+      "id": "3",
+      "title": "Добавить фильтр выполненных карточек",
+      "isDone": false,
+      "isUrgent": false
+    },
+    {
+      "title": "im",
+      "isDone": false,
+      "isUrgent": false,
+      "id": "ZUN2jCHRwGA"
+    },
+    {
+      "title": "im",
+      "isDone": false,
+      "isUrgent": false,
+      "id": "gpIBauVvuEM"
+    },
+    {
+      "title": "ув",
+      "isDone": false,
+      "isUrgent": false,
+      "id": "38YO8U48Tr8"
+    },
+    {
+      "title": "test",
+      "isDone": false,
+      "isUrgent": false,
+      "id": "NWAkjUIPScE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
